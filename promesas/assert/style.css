@@ -1,0 +1,27 @@
+
+body{
+    font-family:'Courier New', Courier, monospace;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: rgb(31, 28, 26);
+}
+
+.container{
+    text-align: center;
+    background-color: rgb(17, 81, 141);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: rgba(0, 0, 0, 0.1);
+    color: white;
+}
+
+form{
+    margin-bottom: 20px;
+}
+
+.oculto{
+    display: none;
+}
